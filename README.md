@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Animated GIF]('')
+![Animated GIF]('https://github.com/Genzi135/Genzi135/blob/master/assets/bg-pixel.gif')
