@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 
 ![Animated GIF](https://github.com/Genzi135/Genzi135/blob/master/assets/bg-pixel.gif)
 
-Link: https://www.youtube.com/
