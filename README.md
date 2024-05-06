@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Vietnam 🧑‍💻</h3>
 <h3 align="center">A frontend devtry to become fullstack dev 🤗</h3>
 <h3 align="center">I have something in here 👇</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <h3>Progamming Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
