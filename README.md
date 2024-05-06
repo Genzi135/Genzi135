@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&random=false&width=435&lines=Hi%F0%9F%91%8B+my+name+is+Genzi;Welcome+to+my+Github+%E2%9D%A4%EF%B8%8F;Have+a+good+day+%F0%9F%A5%B0" alt="Typing SVG" /></a>
 </h1>
 
-<h5 align="center">A passionate developer from Vietnam 🧑‍💻</h5>
-<h5 align="center">A frontend dev and try to become a fullstack dev 🤗</h5>
+<h4 align="center">A passionate developer from Vietnam 🧑‍💻</h4>
+<h4 align="center">A frontend dev try to become a fullstack dev 🤗</h4>
 <!-- <h3 align="left">I have something in here 👇</h3> -->
 <p align="center"> 
   <h3 >Progamming Languages</h3>
