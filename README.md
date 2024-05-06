@@ -18,14 +18,14 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&random=false&width=435&lines=Hi%F0%9F%91%8B+my+name+is+Genzi;Welcome+to+my+Github+%E2%9D%A4%EF%B8%8F;Have+a+good+day+%F0%9F%A5%B0" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate developer from Vietnam 🧑‍💻</h3>
-<h3 align="center">A frontend dev and try to become a fullstack dev 🤗</h3>
-<h3 align="left">I have something in here 👇</h3>
-<p align="left"> 
-  <h3>Progamming Languages</h3>
+<h5 align="center">A passionate developer from Vietnam 🧑‍💻</h5>
+<h5 align="center">A frontend dev and try to become a fullstack dev 🤗</h5>
+<!-- <h3 align="left">I have something in here 👇</h3> -->
+<p align="center"> 
+  <h3 >Progamming Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <h3>Frontend Development</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
