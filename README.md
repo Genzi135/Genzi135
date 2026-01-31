@@ -16,10 +16,10 @@
 ## 🧙 CLASS SYSTEM
 ```txt
 🟦 Main Class
-🎨 Frontend Developer
+    🎨 Frontend Developer
 🟨 Side Classes
-🛠 Backend Developer
-🖌 UI / UX Designer
+    🛠 Backend Developer
+    🖌 UI / UX Designer
 ```
 ## ❤️ STATUS BAR
 ```txt
