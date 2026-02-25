@@ -11,7 +11,7 @@
 🎮 Game ID     : Genzi
 ⭐ Level       : 2
 🟢 Status     : Junior
-🌏 Server     : Vietnam 🇻🇳
+🌏 Server     : Vietnam (VN)
 ```
 ## 🧙 CLASS SYSTEM
 ```txt
@@ -36,11 +36,12 @@
 ```
 ## 🎒 INVENTORY
 ```txt
-💻 Laptop        : Acer Nitro 5
-⌨️ Keyboard      : ...
-🖱 Mouse         : Logitech G304
-☕ Coffee potion : x99
-👓 Glasses       : x2
+🧠 Brian          : x1
+💻 Laptop         : Acer Nitro 5
+⌨️ Keyboard       : ...
+🖱 Mouse          : Logitech G304
+☕ Coffee potion  : x99
+👓 Glasses        : x2
 ```
 <p align="center">
 🎮 END OF PROFILE 🎮  
