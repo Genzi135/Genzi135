@@ -36,7 +36,7 @@
 ```
 ## 🎒 INVENTORY
 ```txt
-🧠 Brian          : x1
+🧠 Brain          : x1
 💻 Laptop         : Acer Nitro 5
 ⌨️ Keyboard       : ...
 🖱 Mouse          : Logitech G304
